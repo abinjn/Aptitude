@@ -11,6 +11,7 @@ int main()
             if(res % 2 ==  0)
             {
                 printf("%d %d\n",arr[i],arr[j]);
+                fdf
             }
         }
     }
